@@ -1,0 +1,6 @@
+# Ignore executables
+**/*.out
+# Ignore Visual Studio Code workspace settings
+.vscode/
+# Ignore log file
+log.txt
